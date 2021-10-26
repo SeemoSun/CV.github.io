@@ -73,6 +73,9 @@ Direct instructor: Dr.Sara Mouradian [smouradi@berkeley.edu]
 - Next we are going to fabricate and test our chips.
 - Currently I am studying the decoherence time for our surface trap system by its noise spectrum.
 
+## Publications
+None
+
 ## Awards
 #### 1. Awarded with Scholarship for Academic Progress for academic progress in  Tsinghua University, 2020
 #### 2. Awarded with Scholarship for Academic Progress for academic progress in  Tsinghua University, 2021
@@ -91,3 +94,8 @@ Introduction to Atomic and Optical Physics A | Quantum Optics and Atom Optics A+
 Advanced Quantum Information theory A+ | Select topics in Information Physics A+
 
 Group Theory B+
+
+## Miscellaneous
+
+- [Download]() the pdf version of my C.V.
+- I just begin to build [Ximo Sun](https://seemosun.github.io/Seemo.github.io/) which is my personal website where I shared paper readings and codes. 
