@@ -5,13 +5,11 @@
 #### 4th Year,BS Degree \ Department of Physics, Major in Mathematics and Physics
 #### GPA 3.83  
 #### Ranking 28/106
-
 You may check the [transcript](https://cloud.tsinghua.edu.cn/f/2f027e6a2d754892bebf/?dl=1) if you like
 
 
 
 ## Instrumentation Experience
-
 #### Spatial Light Modulator \\ Shark-Hartmann Wavefront Sensor \\ CCD camera \\ Spectrometer
 Experience of basic Optics lab works
 
@@ -31,7 +29,7 @@ Quantum Optics Group led by Prof. Yongchun Liu  April 2019-August 2020
  
  - We come with some basic ideas for the gadgets before I changed my interest to quantum computation area. 
  
- ### 2. Tsinghua University | Beijing, China
+### 2. Tsinghua University | Beijing, China
 Trapped Ion lab led by Prof. Kihwan Kim  Sept 2020-June 2021
 
  Direct instructor: Prof.Kihwan Kim [kimkihwan@mail.tsinghua.edu.cn]
