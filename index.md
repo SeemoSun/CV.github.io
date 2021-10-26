@@ -3,10 +3,10 @@
 ## Eduacation 
 ### Tsinghua University, Physics Department   August 2018 - Present   
 #### 4th Year,BS Degree \ Department of Physics, Major in Mathematics and Physics
-##### GPA 3.83  
-##### Ranking 28/106
+#### GPA 3.83  
+#### Ranking 28/106
 
-You may check the [transcript]() if you like
+You may check the [transcript](https://cloud.tsinghua.edu.cn/f/2f027e6a2d754892bebf/?dl=1) if you like
 
 
 
@@ -84,9 +84,11 @@ None
 
 ## Relevant Courses
 #### 1. Core Courses
-Quantum Mechanics(1)(2) A- | Classical Mechanics A- | Electrodynamics A- | 
-
-Mathematical Physics Equations A | Differential Geometry A- 
+Quantum Mechanics(1)(2) | A- 
+Classical Mechanics     | A- 
+Electrodynamics         | A-  
+Mathematical Physics Equations| A 
+Differential Geometry | A- 
 
 #### 2. Graduate Courses
 Introduction to Atomic and Optical Physics A | Quantum Optics and Atom Optics A+
@@ -97,5 +99,5 @@ Group Theory B+
 
 ## Miscellaneous
 
-- [Download]() the pdf version of my C.V.
+- [Download](https://cloud.tsinghua.edu.cn/f/2e842d6890104e26beb1/?dl=1) the pdf version of my C.V.
 - I just begin to build [Ximo Sun](https://seemosun.github.io/Seemo.github.io/) which is my personal website where I shared paper readings and codes. 
