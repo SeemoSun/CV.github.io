@@ -2,9 +2,9 @@
 
 ## Eduacation 
 ### Tsinghua University, Physics Department   August 2018 - Present   
-##### 4th Year,BS Degree \ Department of Physics, Major in Mathematics and Physics
-###### GPA 3.83  
-###### Ranking 28/106
+#### 4th Year,BS Degree \ Department of Physics, Major in Mathematics and Physics
+##### GPA 3.83  
+##### Ranking 28/106
 
 You may check the [transcript]() if you like
 
