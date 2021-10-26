@@ -51,7 +51,7 @@ Trapped Ion lab led by Prof. Kihwan Kim  Sept 2020-June 2021
 ### 3. University of Science and Technology of China | Hefei, China
 Photon Quantum Computaion Group led by Prof. Chaoyang Lu July 2021-August 2021
 
-Direct instructor: Dr.Hui Wang [whui@ustc.edu.cn] || Dr.Zhan Wu [zhanwu@ustc.edu.cn]
+Direct instructor: Dr.Hui Wang [whui@ustc.edu.cn] | Dr.Zhan Wu [zhanwu@ustc.edu.cn]
 
 - The aim of this group is to utilize photon and quantum dot as qubits for quantum computation.
 - For one aim we would want to realize the Duan-Kimble proposal of photon control phase gate by using quantum dot in cavity as an intermediate station. 
@@ -83,27 +83,27 @@ None
 ## Relevant Courses
 #### 1. Core Courses
 
-##### Quantum Mechanics(1)(2)       || A- 
+ Quantum Mechanics(1)(2)       || A-  
+ 
+ Classical Mechanics           || A-
 
-##### Classical Mechanics           || A- 
+ Electrodynamics               || A- 
 
-##### Electrodynamics               || A- 
+ Mathematical Physics Equations|| A 
 
-##### Mathematical Physics Equations|| A 
-
-##### Differential Geometry         || A- 
+ Differential Geometry         || A- 
 
 #### 2. Graduate Courses
 
-##### Introduction to Atomic and Optical Physics       || A
+ Introduction to Atomic and Optical Physics       || A
 
-##### Quantum Optics and Atom Optics                   || A+
+ Quantum Optics and Atom Optics                   || A+
 
-##### Advanced Quantum Information theory              || A+
+ Advanced Quantum Information theory              || A+
 
-##### Select topics in Information Physics             || A+ 
+ Select topics in Information Physics             || A+ 
 
-##### Group Theory                                     || B+
+ Group Theory                                     || B+
 
 
 ## Miscellaneous
