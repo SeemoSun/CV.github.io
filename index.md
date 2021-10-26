@@ -82,13 +82,19 @@ None
 
 ## Relevant Courses
 #### 1. Core Courses
+
 Quantum Mechanics(1)(2) || A- 
+
 Classical Mechanics     || A- 
+
 Electrodynamics         || A-  
+
 Mathematical Physics Equations|| A 
+
 Differential Geometry || A- 
 
 #### 2. Graduate Courses
+
 Introduction to Atomic and Optical Physics A || Quantum Optics and Atom Optics A+
 
 Advanced Quantum Information theory A+ || Select topics in Information Physics A+
