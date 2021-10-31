@@ -34,7 +34,7 @@ Trapped Ion lab led by Prof. Kihwan Kim  Sept 2020-June 2021
 
  Direct instructor: Prof.Kihwan Kim [kimkihwan@mail.tsinghua.edu.cn]
  
- - The aim of our research is about simulate some quantum phase,like spin liquid, by 2D ion crystal
+ - The aim of our research is about simulate some quantum phase,like spin liquid, by 2D ion crystal to study quantum many body system.
  
  - My task is to construct individual addressing system for any single ion or any group of ions in the ion crystal by laser.
  
@@ -69,7 +69,7 @@ Direct instructor: Dr.Sara Mouradian [smouradi@berkeley.edu]
 - We are going to design and test our chips for this purpose.
 - So far I have done some of the simulations and came up with a structure for high collection rate using small NA lens.
 - Next we are going to fabricate and test our chips.
-- Currently I am studying the decoherence time for our surface trap system by its noise spectrum.
+- Currently I am studying the decoherence time for our ions trapped by surface trap with addressing light system by its noise spectrum.
 
 ## Publications
 None
