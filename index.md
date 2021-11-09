@@ -31,18 +31,12 @@ Trapped Ion lab led by Prof. Kihwan Kim  Sept 2020-June 2021
  Direct instructor: Prof.Kihwan Kim [kimkihwan@mail.tsinghua.edu.cn]
  
  - The system is 2D ion crystal to study quantum many body system.
- 
  - My task is to construct individual addressing system for any single ion or any group of ions in the ion crystal by laser.
- 
  - Spacial Light Modulator with computer calculated phase pattern
- 
  - Relying on a modified GS algorithm 
- 
  - Finished a first stage of construction, being able to generate laser beams organized in any pattern with a signal-to-noise ratio of 10.
- 
  - Next stage, feed back control part should be added to the system for more optimal results.
-
-  - Reformations to the algorithm to increase the trap contrast will be tested after my visiting time in USA.
+ - Reformations to the algorithm to increase the trap contrast will be tested after my visiting time in USA.
 
 ### 3. University of Science and Technology of China | Hefei, China
 Photon Quantum Computaion Group led by Prof. Chaoyang Lu July 2021-August 2021
