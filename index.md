@@ -19,30 +19,26 @@ Quantum Optics Group led by Prof. Yongchun Liu  April 2019-August 2020
 
  Direct instructor: Prof. Yongchun Liu [ycliu@tsinghua.edu.cn]
  
- - This group investigates mainly quantum optics for the purpose of precise measurement.
- 
  - The project focus on the application of Exceptional Points in Non-Hermitian quantum system. 
  
- - I proceed the research quite independently with the professor.
+ - Realizing higher order EPs in synthetic dimension for photons will simplify the fabrication and construction of microcavity system.
  
- - Our interest turns to realizing higher order EPs in synthetic dimension for photons, therefore simplifying the fabrication and construction of microcavity system.
- 
- - We come with some basic ideas for the gadgets before I changed my interest to quantum computation area. 
+ - Passive system with spin-momentum locking in synthetic dimension might map an effective arbitrary order of EPs
  
 ### 2. Tsinghua University | Beijing, China
 Trapped Ion lab led by Prof. Kihwan Kim  Sept 2020-June 2021
 
  Direct instructor: Prof.Kihwan Kim [kimkihwan@mail.tsinghua.edu.cn]
  
- - The aim of our research is about simulate some quantum phase,like spin liquid, by 2D ion crystal to study quantum many body system.
+ - The system is 2D ion crystal to study quantum many body system.
  
  - My task is to construct individual addressing system for any single ion or any group of ions in the ion crystal by laser.
  
- - We use Spacial Light Modulator to generate any shape of addressing laser beam.
+ - Spacial Light Modulator with computer calculated phase pattern
  
- - Relying on GS algorithm, we transplant the technique for Holographic Optical Tweezers for this goal.
+ - Relying on a modified GS algorithm 
  
- - I have finished a first stage of construction, being able to generate laser beams organized in any pattern with a signal-to-noise ratio of 10.
+ - Finished a first stage of construction, being able to generate laser beams organized in any pattern with a signal-to-noise ratio of 10.
  
  - Next stage, feed back control part should be added to the system for more optimal results.
 
@@ -53,21 +49,20 @@ Photon Quantum Computaion Group led by Prof. Chaoyang Lu July 2021-August 2021
 
 Direct instructor: Dr.Hui Wang [whui@ustc.edu.cn] | Dr.Zhan Wu [zhanwu@ustc.edu.cn]
 
-- The aim of this group is to utilize photon and quantum dot as qubits for quantum computation.
-- For one aim we would want to realize the Duan-Kimble proposal of photon control phase gate by using quantum dot in cavity as an intermediate station. 
-- I worked with 2 colleagues for designing the Raman process(control the Rabi Frequency and phase difference of these 2 beams) for single qubit gate.
-- We ran simulations of a multi level system in cavity and came with an idea to overcome the strong effect of precession caused by Voigt magnetic field.
-- On the other hand I also joined the discussion about the feasibility of realizing photon blockade by nonlinear optical material for the purpose of obtaining single photon source with very high quality.
+- Goal is to the Duan-Kimble proposal of photon control phase gate by using quantum dot in cavity as an intermediate station. 
+- Designing the Raman process(control the Rabi Frequency and phase difference of these 2 beams) for single qubit gate.
+- Simulating Raman transition of a multi level system in cavity to find best phase difference between Raman beams to mitigate the strong effect of precession caused by Voigt magnetic field
+- Joined the discussion about the feasibility of realizing photon blockade by nonlinear optical material for the purpose of obtaining single photon source with very high quality.
 
 ### 4. University of California,Berkeley | California, USA
 Ion Trap Group led by Prof.Hartmut Haeffner  Sept 2021-Present
 
 Direct instructor: Dr.Sara Mouradian [smouradi@berkeley.edu]
 
-- The aim of our group is to realize high fidelity light shift entangling gate in optical qubit system.
-- We want to set up a reliable individial addressing by using waveguide.  
-- We are going to design and test our chips for this purpose.
-- So far I have done some of the simulations and came up with a structure for high collection rate using small NA lens.
+- Try to realize high fidelity light shift entangling gate in optical qubit system.
+- Set up a reliable individial addressing system using waveguide.  
+- Found grating structure be helpful for concentrating EM field flux on the waveguide faucet
+- Simulations verify the structure for high collection rate(over 80%) using relative small NA(0.4) lens.
 - Next we are going to fabricate and test our chips.
 - Currently I am studying the decoherence time for our ions trapped by surface trap with addressing light system by its noise spectrum.
 
