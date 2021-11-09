@@ -103,5 +103,5 @@ None
 
 ## Miscellaneous
 
-- [Download](https://cloud.tsinghua.edu.cn/f/2e842d6890104e26beb1/?dl=1) the pdf version of my C.V.
+- [Download](https://cloud.tsinghua.edu.cn/f/d17005272b0c4c35a4e3/?dl=1) the pdf version of my C.V.
  
