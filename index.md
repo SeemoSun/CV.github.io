@@ -4,7 +4,6 @@
 ### Tsinghua University, Physics Department   August 2018 - Present   
 #### 4th Year,BS Degree \ Department of Physics, Major in Mathematics and Physics
 #### GPA 3.83  
-#### Ranking 28/106 (second year top30%,third year top1%)
 You may check the [transcript](https://cloud.tsinghua.edu.cn/f/2f027e6a2d754892bebf/?dl=1) if you like
 
 
